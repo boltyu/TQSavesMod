@@ -24,3 +24,5 @@ Win10 x64 titan quest anniversary edition
 
 请预先做好存档备份再使用软件
 
+修改时退出游戏到主菜单
+
