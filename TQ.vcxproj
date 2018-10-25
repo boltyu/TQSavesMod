@@ -184,7 +184,6 @@
     <ClInclude Include="targetver.h" />
     <ClInclude Include="TQ.h" />
     <ClInclude Include="TQDlg.h" />
-    <ClInclude Include="TQSave.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -195,7 +194,6 @@
     </ClCompile>
     <ClCompile Include="TQ.cpp" />
     <ClCompile Include="TQDlg.cpp" />
-    <ClCompile Include="TQSave.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="TQ.rc" />
